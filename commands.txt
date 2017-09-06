@@ -1,0 +1,118 @@
+    1  ls -G
+    2  xcode-select --install
+    3  xcode-select --install
+    4  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    5  brew analytics off
+    6  brew install bash
+    7  echo '/usr/local/bin/bash' | sudo tee -a /etc/shells
+    8  chsh -s /usr/local/bin/bash
+    9  bash -version
+   10  curl -fsSL https://git.io/v50Ta | ruby
+   11  ls
+   12  brew install git
+   13  git --version
+   14  brew install bash-completion
+   15  curl -fsSL https://git.io/v504A | ruby
+   16  git config --global user.name 'Brittany Willner'
+   17  git config --global user.email bwillner@amazon.com
+   18  git config --list
+   19  curl -fsSL https://git.io/v500H | sh
+   20  git config --list
+   21  java -version
+   22  whoami
+   23  echo '/usr/local/bin/bash' | sudo tee -a /etc/shells
+   24  chsh -s /usr/local/bin/bash
+   25  pwd
+   26  ls
+   27  ls ~
+   28  ls /Users/bwillner
+   29  ls .
+   30  brew install bash
+   31  curl -fsSL https://git.io/v50Ta | ruby
+   32  open .
+   33  ls -l
+   34  ls -h
+   35  ls -hl
+   36  ll
+   37  ls -hal
+   38  la
+   39  exit
+   40  -@
+   41  @
+   42  ls -@
+   43  ls -e
+   44  -e
+   45  ls -1
+   46  ls -B
+   47  man ls
+   48  man cd
+   49  help cd
+   50  env
+   51  echo $SHELL
+   52  echo $path
+   53  echo $PATH
+   54  which which
+   55  ls /usr/local/bin
+   56  .. /usr/bin
+   57  ls /usr/bin
+   58  echo $EDITOR
+   59  nano ~/.bash_profile
+   60  cat ~/.bash_profile
+   61  echo $EDITOR
+   62  echo $SHELL
+   63  brew install tree
+   64  tree ~
+   65  tree -L 1 ~
+   66  cd /
+   67  ll
+   68  ll /Applications/
+   69  ll ~/Applications/
+   70  cd ~
+   71  cd
+   72  cd /
+   73  mkdir.notebook
+   74  mkdir ~/Projects
+   75  cd /Projects
+   76  cd ~/Projects
+   77  /..
+   78  cd ~/Sounds
+   79  cd ~/Applications
+   80  ../Projects/
+   81  cd-
+   82  cd -
+   83  cd
+   84  mkdir ~/Projects
+   85  cd ~/Projects
+   86  mkdir week01
+   87  cd week01
+   88  mkdir notebook
+   89  cd notebook
+   90  touch notes.txt
+   91  ll
+   92  cat notes.txt
+   93  nano notes.txt
+   94  mv notes.txt commands.txt
+   95  ll
+   96  rm commands.txt
+   97  ll
+   98  rmdir week01
+   99  ..
+  100  ..
+  101  rmdir notebook
+  102  cd week01
+  103  rmdir notebook
+  104  ll
+  105  mkdir notebook
+  106  cd notebook
+  107  cat commands.txt
+  108  touch notes.txt
+  109  cat notes.txt
+  110  ll
+  111  nano notes.txt
+  112  ll
+  113  history
+  114  clear
+  115  history
+  116  history 102
+  117  history 10
+  118  history > commands.txt
