@@ -1,0 +1,4 @@
+> sends output of command to the file named- if there is already content in the file, it will overwrite existing content
+>> appends output of command to the file named.  if content is the same, nothing will change.  If there is new content, it will be added
+history displays all of the history
+clear clears screen and takes you to the top, but keeps whatever preceded

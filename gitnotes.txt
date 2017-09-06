@@ -1,0 +1,6 @@
+Steps to add and commit:
+	-git init:  creates repository
+	-git add <filename>
+	-git commit -m 'Add <filename>'
+
+Show status
