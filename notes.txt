@@ -1,0 +1,4 @@
+-Spaces can't be in file names.  Depending on the type of language, can use: 
+	-CamelCase (java)
+	-snake_case (ruby, SQL)
+	-or hypenate (can't remember name)
